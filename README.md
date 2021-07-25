@@ -1,2 +1,2 @@
-# First-Java-Project
-You are an IT support Administartor Spwcialist and are charged with the task of creatingemail account for new hires.
+# First-Java-Miniproject
+You are an IT support Administartor Specialist and are charged with the task of creating email account for new hires.
